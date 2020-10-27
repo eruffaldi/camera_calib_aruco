@@ -1,0 +1,2 @@
+pycairo
+opencv-contrib-python
